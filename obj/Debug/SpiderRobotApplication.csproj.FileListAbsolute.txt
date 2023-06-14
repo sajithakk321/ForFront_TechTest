@@ -1,0 +1,17 @@
+D:\Learnings\C#Learning\SpiderRobotApplication\obj\Debug\SpiderRobotApplication.csproj.AssemblyReference.cache
+D:\Learnings\C#Learning\SpiderRobotApplication\obj\Debug\SpiderRobotApplication.csproj.SuggestedBindingRedirects.cache
+D:\Learnings\C#Learning\SpiderRobotApplication\obj\Debug\SpiderRobotApplication.csproj.CoreCompileInputs.cache
+D:\Learnings\C#Learning\SpiderRobotApplication\bin\Debug\SpiderRobotApplication.exe.config
+D:\Learnings\C#Learning\SpiderRobotApplication\bin\Debug\SpiderRobotApplication.exe
+D:\Learnings\C#Learning\SpiderRobotApplication\bin\Debug\SpiderRobotApplication.pdb
+D:\Learnings\C#Learning\SpiderRobotApplication\bin\Debug\SpiderRoboBAL.dll
+D:\Learnings\C#Learning\SpiderRobotApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Learnings\C#Learning\SpiderRobotApplication\bin\Debug\Unity.Abstractions.dll
+D:\Learnings\C#Learning\SpiderRobotApplication\bin\Debug\Unity.Container.dll
+D:\Learnings\C#Learning\SpiderRobotApplication\bin\Debug\SpiderRoboBAL.pdb
+D:\Learnings\C#Learning\SpiderRobotApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Learnings\C#Learning\SpiderRobotApplication\bin\Debug\Unity.Abstractions.pdb
+D:\Learnings\C#Learning\SpiderRobotApplication\bin\Debug\Unity.Container.pdb
+D:\Learnings\C#Learning\SpiderRobotApplication\obj\Debug\SpiderRobotApplication.csproj.CopyComplete
+D:\Learnings\C#Learning\SpiderRobotApplication\obj\Debug\SpiderRobotApplication.exe
+D:\Learnings\C#Learning\SpiderRobotApplication\obj\Debug\SpiderRobotApplication.pdb
